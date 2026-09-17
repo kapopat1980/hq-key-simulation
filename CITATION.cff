@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "HQ-KEY simulation code"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "HQ-KEY: A Hybrid Quantum and Physical-Layer Key Management Framework for Securing Converged Fiber-Wireless Access Networks"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given name]"
+  conference:
+    name: "11th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS 2026)"
+  year: 2026
